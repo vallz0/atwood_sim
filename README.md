@@ -38,7 +38,7 @@ No simulador, essa força é representada por vetores verticais apontando para b
 
 ### Tensão na Corda
 
-A tensão $$ T $$ atua ao longo do fio, puxando os blocos para cima.
+A tensão $$T$$ atua ao longo do fio, puxando os blocos para cima.
 
 Aplicando a **Segunda Lei de Newton** em cada massa:
 
