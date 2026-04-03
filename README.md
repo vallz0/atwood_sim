@@ -47,7 +47,7 @@ Para $$m_1$$:
 $$ T - m_1 g = m_1 a $$
 
 
-Para $$ m_2$$:
+Para $$m_2$$:
 
 $$ m_2 g - T = m_2 a $$
 
