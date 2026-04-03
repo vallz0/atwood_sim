@@ -9,7 +9,7 @@ O projeto foca na modelagem matemática e na visualização em tempo real de um 
 
 ##  Fundamentação Física
 
-A Máquina de Atwood consiste em dois corpos de massas $$m_1$$ e $$ m_2 $$, ligados por um fio inextensível que passa por uma polia ideal (sem massa e sem atrito).
+A Máquina de Atwood consiste em dois corpos de massas $$m_1$$ e $$m_2$$, ligados por um fio inextensível que passa por uma polia ideal (sem massa e sem atrito).
 
 O modelo adotado assume:
 - fio inextensível  
